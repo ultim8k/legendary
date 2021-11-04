@@ -1,0 +1,29 @@
+============================================================
+  \\_  _ __ __ _ _ __   __ _  ___ _ __     _ __ ___   ___ 
+ /   \| '__/ _` | '_ \ / _` |/ _ \ '__|   | '_ ` _ \ / _ \
+|     | | | (_| | | | | (_| |  __/ |     _| | | | | |  __/
+ \___/|_|  \__,_|_| |_|\__, |\___|_|    (_)_| |_| |_|\___|
+                       |___/                              
+============================================================
+
+	Konstantinos Kapenekakis - Technologist engineer
+	@ultim8k
+	ultimatekonstantinos [at] gmail [dot] com
+	i [at] oranger [dot] me
+
+TECHNOLOGIES
+
+	HTML(5) & CSS(3) & javascript & microformats
+	• normalize.css from Nicolas Gallagher:
+	http://necolas.github.com/normalize.css/
+	• css3 background from Lea Verou and Marta Armada:
+	http://leaverou.me/css3patterns/
+	• css3 prefixfree from Lea Verou:
+	http://leaverou.github.com/prefixfree/
+	• http://humanstxt.org/
+	• http://microformats.org/
+	
+	Many thanks to css gurus as Chris Coyier, Harry Roberts,
+	Lea Verou, Nicolas Gallagher and Smashing Magazine!
+	Their tips and tutorials are my Bible and helped me
+	start my journey in the web development!
